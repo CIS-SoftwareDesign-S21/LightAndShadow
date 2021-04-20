@@ -8,7 +8,7 @@
     },
     "CapsuleShape" : {
         "radius" : 1,
-        "height" : 2
+        "height" : 5
     },
     "persisted" : true,
     "AnimateBounce": {
@@ -26,7 +26,7 @@
                 "id": "main",
                 "title": "Welcome",
                 "paragraphText": [
-                    "Welcome to Light &amp; Shadow, ${player.name}! It is time for you to choose a side in this battle. Approach a teleporter and activate it to join that side in a fight for victory."
+                    "Welcome to Light &amp; Shadow, ${player.name}! Before you begin,  It is time for you to choose a side in this battle. Approach a teleporter and activate it to join that side in a fight for victory."
                 ],
                 "responses": [
                     {
