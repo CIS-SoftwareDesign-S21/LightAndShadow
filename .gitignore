@@ -11,3 +11,6 @@ build.gradle
 .settings
 bin/
 build/
+*.xml
+*.xml
+.DS_Store

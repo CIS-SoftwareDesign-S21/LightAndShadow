@@ -8,7 +8,7 @@
     },
     "CapsuleShape" : {
         "radius" : 1,
-        "height" : 2
+        "height" : 5
     },
     "persisted" : true,
     "AnimateBounce": {
@@ -26,7 +26,7 @@
                 "id": "main",
                 "title": "Welcome",
                 "paragraphText": [
-                    "Welcome to Light &amp; Shadow, ${player.name}! It is time for you to choose a side in this battle. Approach a teleporter and activate it to join that side in a fight for victory."
+                    "Welcome to Light &amp; Shadow, ${player.name}! Before you begin, here is a quick overview of what to expect upon entering the arena. The objective of Light and Shadow is to capture flags from the opposing team while simultaneously protecting your own flag. To acquire the enemy flag, find the box in the center of their base and press E to obtain it. From there, run it back to your base, and press E once there to drop it. The best way to defeat your enemies is with your bow and arrow. To use the bow, first open your inventory using I. Then, click on a stack of arrows and move them to the ammo slot next to your bow. To fire, simply right click and watch your arrow fly! With that, It is time for you to choose a side in this battle. Approach a teleporter and activate it to join that side in a fight for victory."
                 ],
                 "responses": [
                     {
